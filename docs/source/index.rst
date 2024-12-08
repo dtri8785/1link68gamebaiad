@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+68gamebai
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`68gamebai <https://68gamebai.ad/>`_ thiên đường game bài online và trò chơi đổi thưởng. Tổng hợp đầy đủ các thể loại game bài và trò chơi cho người chơi lựa chọn khi tham tại cổng game. Uy tín , an toàn và minh bạch luôn là tiêu chí hàng đầu cổng game 68 game bài mang lại cho người chơi. Tải app tham gia ngay 68gamebai tham gia trò chơi nhận nhiều phần quà hấp dẫn.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 2995 Đ. Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0755690842. 
 
-Contents
---------
+Email: info@68gamebai.ad. 
 
-.. toctree::
+Website: https://68gamebai.ad/ 
 
-   usage
-   api
+#68gamebai #68_game_bai #68gamebaiad
